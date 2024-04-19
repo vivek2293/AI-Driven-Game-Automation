@@ -1,6 +1,4 @@
 # Pattern detection
-import time
-import mss
 import pyautogui
 
 # aim_detect = pyautogui.locateOnScreen("./images/aim_complete.png", confidence=0.5)

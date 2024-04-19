@@ -1,3 +1,7 @@
+from PIL import Image
+import cv2
+import numpy as np
+
 # Pattern matcher for aim circle
 def match_image(pattern_url, image_url):
     tar = cv2.imread(pattern_url)
@@ -10,11 +14,11 @@ def match_image(pattern_url, image_url):
 
 
     # Define a Green Color Range:
-    lower_green = np.array([50, 218, 183])  # Adjust these values based on your specific shade of green
+    lower_green = np.array([50, 218, 183]) 
     upper_green = np.array([175, 255, 255])
-    mask = cv2.inRange(hsv_image, lower_green, upper_green)
 
-    # Apply the Mask:
+    # Create and apply the mask:
+    mask = cv2.inRange(hsv_image, lower_green, upper_green)
     green_areas = cv2.bitwise_and(image, image, mask=mask)
 
     # Grayscale and blur to remove noise:
