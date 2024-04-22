@@ -1,0 +1,14 @@
+Machine Learning Project Submission
+
+Project Title:
+AI-Driven Game Automation through Reinforcement Learning and Image Processing
+
+Project Description:
+Project is about Game Automation, which involves creating a model so that games can be played automatically, without any human interference. This model not only automates the game, but also makes strategic decisions and tactical execution, according to real time situations in games, and in many scenarios acts more quickly than average human reflexes. Many games use AI and ML to enhance non-player characters or bots, and increase the difficulty level dynamically. This allows for adaptive challenges, where the game's difficulty adjusts in real-time based on players skill level, ensuring a good experience for gamers of all levels.
+
+Trained Model Attachment:
+The trained PPO model is attached with this submission.
+For source code, please visit github with provided link.
+
+Github Link : 
+https://github.com/vivek2293/AI-Driven-Game-Automation
