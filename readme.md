@@ -45,4 +45,4 @@ To get started with this project, follow these steps:
 
 # Enjoy the AI playing the game
 ## Sample Video
-[![Game_automation_replay](https://img.youtube.com/vi/XCC212vF58s/0.jpg)](https://www.youtube.com/watch?v=XCC212vF58s)
+[![Game_automation_replay](thumbnail.png)](https://www.youtube.com/watch?v=XCC212vF58s)
