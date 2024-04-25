@@ -7,7 +7,7 @@ To get started with this project, follow these steps:
 ### Prerequisites
 - Python installed on your machine
 - LD Player 9 installed on your machine with joystick configured properly
-- Game "Modern Warships" installed on LD Player 9
+- Game "<a href="https://play.google.com/store/apps/details?id=com.Shooter.ModernWarships">Modern Warships</a>" installed on LD Player 9
 
 ### Installation Steps
 
